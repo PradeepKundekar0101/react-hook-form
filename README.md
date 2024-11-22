@@ -1,0 +1,2 @@
+##React Hook form
+- In the traditional input, the component used to re-render for every state change, but in react hook form because of isolated re-rendered, the component is not rerendered for every state change
